@@ -5,7 +5,7 @@
    <h6 align="center">
  <img width="42" height="42" alt="Wideeye" src="https://github.com/user-attachments/assets/c1c97a10-0e94-4dd0-9752-7e80cda1d094" />
   <h6 align="center">
-   <img width="240" height="32" alt="ezgif-1625f6c9c6973788" src="https://github.com/user-attachments/assets/c53f8a21-5ea2-4779-b30d-6ac4fbb6a4de" />
+   <img width="150" height="20" alt="ezgif-13a685f32b08e7d5" src="https://github.com/user-attachments/assets/24fda08f-765f-4b8a-9334-620ccd0d44c0" />
 
 
 
