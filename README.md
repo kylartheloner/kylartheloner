@@ -7,7 +7,7 @@
 
 
   <h6 align="center">
-   <img src="https://github.com/user-attachments/assets/d9b5135b-24f3-4baa-bc9e-afdc5a02785f"> <img src="https://github.com/user-attachments/assets/adaf5a8f-6a29-4f27-91df-855b52c664a7">
+   <img src="https://github.com/user-attachments/assets/d9b5135b-24f3-4baa-bc9e-afdc5a02785f">
 
 
 
