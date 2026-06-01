@@ -1,7 +1,7 @@
 
 
    <h6 align="center">
-   Something is watching you.
+   <p style="color:#008000;">Something is watching you.</p>
    <h6 align="center">
  <img width="61" height="40" alt="ezgif-4b06f1476a55f639" src="https://github.com/user-attachments/assets/73a331a8-6e89-4ef9-a1a8-8488e96793c5" />
 
