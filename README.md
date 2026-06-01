@@ -7,7 +7,7 @@
 
 
   <h6 align="center">
-   <img src="https://github.com/user-attachments/assets/d9b5135b-24f3-4baa-bc9e-afdc5a02785f"> <img src="https://i.postimg.cc/HLnTYVzV/ezgif-7a3faa0561b5e1f2.png"> <img src="https://i.postimg.cc/ZKs7knWy/tumblr-452fad7c15ea0e7cfb63a621b20a631a-37178b77-400.gif">
+   <img src="https://github.com/user-attachments/assets/d9b5135b-24f3-4baa-bc9e-afdc5a02785f"> <img src="https://i.postimg.cc/HLnTYVzV/ezgif-7a3faa0561b5e1f2.png"> <img src="https://i.postimg.cc/C1wHnpZD/ezgif-74c266e404158c68.gif">
 
 
 
