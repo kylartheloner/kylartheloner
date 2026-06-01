@@ -19,5 +19,4 @@
   </a>
 </p>
 <p align="center">
-<img width="218" height="60" alt="image" src="https://github.com/user-attachments/assets/0af62686-bb3b-4ff7-84cd-ad5c6c507771" />
-
+<img src="https://carcuvorous.carrd.co/assets/images/gallery20/b7df3e7d.gif?v=72ce5086">
