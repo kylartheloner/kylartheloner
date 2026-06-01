@@ -1,9 +1,10 @@
 
 
    <h6 align="center">
-   Something is watching you.
+   Something is watching you.  <img width="32" height="32" alt="Wideeye" src="https://github.com/user-attachments/assets/f2a0d34e-c337-42e1-87d8-ee9554606ce9" />
+
    <h6 align="center">
-  <img width="61" height="40" <img width="61" height="40" alt="ezgif-4b06f1476a55f639" src="https://github.com/user-attachments/assets/d409cdb1-d6b7-494f-a808-11589a5a73a5" />
+ 
 
    
  <p align="center">
