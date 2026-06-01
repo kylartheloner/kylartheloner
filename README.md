@@ -4,7 +4,8 @@
    $${\color{green}Something \space is \space watching \space you.}$$
 
    <h6 align="center">
- <img width="61" height="40" alt="ezgif-4b06f1476a55f639" src="https://github.com/user-attachments/assets/73a331a8-6e89-4ef9-a1a8-8488e96793c5" />
+ <img width="40" height="16" alt="ezgif-5327d58ba84690cb" src="https://github.com/user-attachments/assets/7ead2b93-6dff-47b1-8472-4d27acc9e989" />
+
 
   <h6 align="center">
    <img width="150" height="20" alt="ezgif-13a685f32b08e7d5" src="https://github.com/user-attachments/assets/24fda08f-765f-4b8a-9334-620ccd0d44c0" />
