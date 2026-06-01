@@ -19,4 +19,5 @@
   </a>
 </p>
 <p align="center">
-https://gifcity.carrd.co/assets/images/gallery39/59e6c9a7.gif?v=3fc8f5cd
+<img width="218" height="60" alt="image" src="https://github.com/user-attachments/assets/0af62686-bb3b-4ff7-84cd-ad5c6c507771" />
+
