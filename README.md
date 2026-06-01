@@ -19,4 +19,4 @@
   </a>
 </p>
 <p align="center">
-<img width="500" height="20" alt="ezgif-241d8d2d4d2ecf0a" src="https://github.com/user-attachments/assets/e54cf078-01ff-4eed-9fc5-c92f499f2801" />
+[<img width="500" height="20" alt="ezgif-241d8d2d4d2ecf0a" src="https://github.com/user-attachments/assets/e54cf078-01ff-4eed-9fc5-c92f499f2801" />](https://gifcity.carrd.co/assets/images/gallery39/59e6c9a7.gif?v=3fc8f5cd)
