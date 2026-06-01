@@ -3,7 +3,8 @@
    <h6 align="center">
    Something is watching you.
    <h6 align="center">
- 
+ <img width="32" height="32" alt="Wideeye" src="https://github.com/user-attachments/assets/c1c97a10-0e94-4dd0-9752-7e80cda1d094" />
+
 
    
  <p align="center">
