@@ -19,4 +19,5 @@
   </a>
 </p>
 <p align="center">
-<img src="https://carcuvorous.carrd.co/assets/images/gallery20/b7df3e7d.gif?v=72ce5086">
+<img src="https://github.com/user-attachments/assets/23c64ba0-6282-4ed1-8b24-872d47e16d2d">
+
