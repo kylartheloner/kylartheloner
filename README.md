@@ -1,7 +1,7 @@
 
 
    <h6 align="center">
-  $\text{\color{#2f6cd0}Something is watching you.}$
+  $\text{\color{#3dc24e}Something is watching you.}$
    <h6 align="center">
  <img width="40" height="16" alt="ezgif-5327d58ba84690cb" src="https://github.com/user-attachments/assets/7ead2b93-6dff-47b1-8472-4d27acc9e989" />
 
