@@ -19,5 +19,5 @@
   </a>
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/875ec128-1981-4856-8c8d-b6c30664cfdd">
+   <img src="https://github.com/user-attachments/assets/8fbaa073-aa43-428e-a310-0f812f82469d">
   
