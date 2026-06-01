@@ -7,7 +7,7 @@
 
 
   <h6 align="center">
-   <img width="150" height="20" alt="ezgif-5dc73d1ecd661e4d" src="https://github.com/user-attachments/assets/d9b5135b-24f3-4baa-bc9e-afdc5a02785f" />
+   <img width="100" height="20" alt="ezgif-5dc73d1ecd661e4d" src="https://github.com/user-attachments/assets/d9b5135b-24f3-4baa-bc9e-afdc5a02785f" />
 
 
 
