@@ -19,7 +19,6 @@
   </a>
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/5a5da9ec-b9b8-457e-b7bc-cf2deac9377d">
-   <p align="center">
-<img src="https://github.com/user-attachments/assets/23c64ba0-6282-4ed1-8b24-872d47e16d2d">
-
+   <img src="https://github.com/user-attachments/assets/875ec128-1981-4856-8c8d-b6c30664cfdd">
+">
+  
