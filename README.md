@@ -10,10 +10,6 @@
    <img src="https://github.com/user-attachments/assets/d9b5135b-24f3-4baa-bc9e-afdc5a02785f"> <img src="https://i.postimg.cc/HLnTYVzV/ezgif-7a3faa0561b5e1f2.png"> <img src="https://i.postimg.cc/C1wHnpZD/ezgif-74c266e404158c68.gif"> <img src="https://i.postimg.cc/m2KYNHc8/ezgif-777e12caa95bf85c.png">
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/b7dea2b9-6ecd-409a-b4ab-a77d5e0341bc"
-/></p>
-
-
 
    
  <p align="center">
