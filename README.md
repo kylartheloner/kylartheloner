@@ -20,4 +20,5 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/b72f30b5-18d5-424c-82d0-2cde68066f9c" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/b7dea2b9-6ecd-409a-b4ab-a77d5e0341bc" />
+/></p>
