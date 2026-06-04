@@ -20,5 +20,3 @@
   </a>
 </p>
 
- <p align="center"><img src="https://github.com/user-attachments/assets/dff27421-6cd1-49c3-8c3a-4ea4d8e8de50" /></p>
-
